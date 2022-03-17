@@ -1,0 +1,8 @@
+Model name: linear regression model for people salary categary
+Athor: Jing Xu 
+Source data: original.csv
+Model data: cleaned_data.csv
+Intended use: used to predict the salary of a person according the information
+Metrics: 14 cols * about 80000 rows
+Model details: there are 14 features of the information of people and related to the salary type; use onehot encoder to categary the score of each type related to the results, than use logistic regression to classify
+bias:
